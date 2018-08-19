@@ -23,6 +23,5 @@ int main() {
         printf("%c", str[i + n1]);
     }
     printf("%c\n", str[n1 + n2 - 1]);
-    printf("Hello, World!\n");
     return 0;
 }
