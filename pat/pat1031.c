@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <memory.h>
 
-#define MAX_CHAR 10
+#define MAX_CHAR 100
 
 int main() {
     char str[MAX_CHAR] = {'\0'};
